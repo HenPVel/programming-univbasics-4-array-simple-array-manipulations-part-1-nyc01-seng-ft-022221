@@ -9,3 +9,9 @@ end
 def using_pop(array)
   ret_val=array.pop
 end
+
+def using_shift(array)
+  ret_val=array.shift
+end
+
+
